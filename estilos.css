@@ -36,13 +36,7 @@ h1 {
         margin-left: 30px;
         margin-right: 30px;
         padding: 0;
-    }
-    .titulo_tarjeta{
-        font-size: 1.3em;
-        color: rgb(211, 67, 67);
-        text-align: center;
-    }
-    
+    }    
 }
 
 /*para pantallas de movil, en vertical, en vertical*/
@@ -59,11 +53,6 @@ h1 {
         margin-left: 30px;
         margin-right: 30px;
         padding: 0;
-    }
-    .titulo_tarjeta{
-        font-size: 1.7em;
-        color: rgb(211, 67, 67);
-        text-align: center;
     }  
 }
 
@@ -83,6 +72,12 @@ table tr td{
      width: 350px;
      height: 450px;
      margin-bottom: 60px;
+}
+
+.titulo_tarjeta{
+    font-size: 1.3em;
+    color: rgb(211, 67, 67);
+    text-align: center;
 }
     
 
