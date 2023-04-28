@@ -14,8 +14,8 @@
                     <br/>
                     <table border="1">
                         <tr><td><h4><xsl:value-of select="title"></xsl:value-of></h4></td></tr>                        
-                        <tr><td><h5><xsl:value-of select="calle"></xsl:value-of></h5></td></tr>
-                        <tr><td><h5><xsl:value-of select="telefonos"></xsl:value-of></h5></td></tr>
+                        <tr><td><h4><xsl:value-of select="calle"></xsl:value-of></h4></td></tr>
+                        <tr><td><h4><xsl:value-of select="telefonos"></xsl:value-of></h4></td></tr>
                         <xsl:if test="url">
                             <tr><td>
                                 <br/>
