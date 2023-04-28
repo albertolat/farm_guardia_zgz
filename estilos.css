@@ -25,7 +25,7 @@ h1 {
 }
 
 /*para pantallas de ordenador, panoramicas, en horizontal*/
-@media screen and (min-width:991px) {
+@media screen and (min-width:701px) {
     .tarjetaH {
         list-style-type: none;
         display: flex;
@@ -41,7 +41,7 @@ h1 {
 
 /*para pantallas de movil, en vertical, en vertical*/
 /*con 440px en el movil todavia se ve horizontal*/
-@media screen and (max-width:990px) {
+@media screen and (max-width:700px) {
     .tarjetaH {
         list-style-type: none;
         display: flex;
