@@ -2,8 +2,10 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="html" indent="yes"/>
     <xsl:template match="/">
-       
+
+        <br/>
         <xsl:apply-templates select="resultado/totalCount" />
+        <br/>
 
         <div class="tarjetaH">
             <xsl:for-each select="//equipamiento">
