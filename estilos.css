@@ -9,7 +9,7 @@ header div {
     height: 200px;
     display: flex;
     flex-direction: row;
-    font-size: 2em;
+    font-size: 2rem;
     justify-content: center;
 }
 
