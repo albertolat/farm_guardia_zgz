@@ -73,6 +73,7 @@ h1 {
     .tarjetaH section {
         width: 50%;
         height: 50%;
+        align-self: center;
         margin-bottom: 60px;
     }
     
