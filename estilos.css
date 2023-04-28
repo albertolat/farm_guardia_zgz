@@ -42,11 +42,6 @@ h1 {
         color: rgb(211, 67, 67);
         text-align: center;
     }
-    .tarjetaH section {
-        width: 350px;
-        height: 450px;
-        margin-bottom: 60px;
-    }
     
 }
 
@@ -69,14 +64,7 @@ h1 {
         font-size: 1.7em;
         color: rgb(211, 67, 67);
         text-align: center;
-    }
-    .tarjetaH section {
-        width: 50%;
-        height: 50%;
-        align-self: center;
-        margin-bottom: 60px;
-    }
-    
+    }  
 }
 
 table{
@@ -91,7 +79,12 @@ table tr td{
 
 /*tr:nth-child(even) {background-color: #b3f5f2;}*/
 
-
+.tarjetaH section {
+     width: 350px;
+     height: 450px;
+     margin-bottom: 60px;
+}
+    
 
 .tarjeta {
     background-color: rgb(214, 231, 247);
