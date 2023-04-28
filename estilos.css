@@ -69,13 +69,13 @@ table tr td{
 /*tr:nth-child(even) {background-color: #b3f5f2;}*/
 
 .tarjetaH section {
-    width: 350px;
+    width: 400px;
     height: 450px;
     margin-bottom: 60px;
 }
 
 .titulo_tarjeta{
-    font-size: 1.3em;
+    font-size: 1.7em;
     color: rgb(211, 67, 67);
     text-align: center;
 } 
