@@ -25,7 +25,7 @@ h1 {
 }
 
 /*para pantallas de ordenador, panoramicas, en horizontal*/
-@media screen and (min-width:501px) {
+@media screen and (min-width:701px) {
     .tarjetaH {
         list-style-type: none;
         display: flex;
@@ -36,11 +36,11 @@ h1 {
         margin-left: 30px;
         margin-right: 30px;
         padding: 0;
-    }    
+    }   
 }
 
 /*para pantallas de movil, en vertical, en vertical*/
-@media screen and (max-width:500px) {
+@media screen and (max-width:700px) {
     .tarjetaH {
         list-style-type: none;
         display: flex;
@@ -53,7 +53,7 @@ h1 {
         margin-left: 30px;
         margin-right: 30px;
         padding: 0;
-    }  
+    }   
 }
 
 table{
@@ -69,17 +69,16 @@ table tr td{
 /*tr:nth-child(even) {background-color: #b3f5f2;}*/
 
 .tarjetaH section {
-     width: 350px;
-     height: 450px;
-     margin-bottom: 60px;
+    width: 350px;
+    height: 450px;
+    margin-bottom: 60px;
 }
 
 .titulo_tarjeta{
     font-size: 1.3em;
     color: rgb(211, 67, 67);
     text-align: center;
-}
-    
+} 
 
 .tarjeta {
     background-color: rgb(214, 231, 247);
