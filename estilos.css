@@ -34,7 +34,7 @@ h1 {
     height: 200px;
     display: flex;
     flex-direction: row;
-    font-size: 2rem;
+    font-size: 1.5rem;
     justify-content: center;
 }
 
